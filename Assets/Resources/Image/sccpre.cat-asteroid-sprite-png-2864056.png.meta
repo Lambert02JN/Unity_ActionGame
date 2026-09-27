@@ -1,0 +1,901 @@
+fileFormatVersion: 2
+guid: 41cdb3d6871fd974c8c8a25f6ab1e481
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sccpre.cat-asteroid-sprite-png-2864056_0
+    21300002: sccpre.cat-asteroid-sprite-png-2864056_1
+    21300004: sccpre.cat-asteroid-sprite-png-2864056_2
+    21300006: sccpre.cat-asteroid-sprite-png-2864056_3
+    21300008: sccpre.cat-asteroid-sprite-png-2864056_4
+    21300010: sccpre.cat-asteroid-sprite-png-2864056_5
+    21300012: sccpre.cat-asteroid-sprite-png-2864056_6
+    21300014: sccpre.cat-asteroid-sprite-png-2864056_7
+    21300016: sccpre.cat-asteroid-sprite-png-2864056_8
+    21300018: sccpre.cat-asteroid-sprite-png-2864056_9
+    21300020: sccpre.cat-asteroid-sprite-png-2864056_10
+    21300022: sccpre.cat-asteroid-sprite-png-2864056_11
+    21300024: sccpre.cat-asteroid-sprite-png-2864056_12
+    21300026: sccpre.cat-asteroid-sprite-png-2864056_13
+    21300028: sccpre.cat-asteroid-sprite-png-2864056_14
+    21300030: sccpre.cat-asteroid-sprite-png-2864056_15
+    21300032: sccpre.cat-asteroid-sprite-png-2864056_16
+    21300034: sccpre.cat-asteroid-sprite-png-2864056_17
+    21300036: sccpre.cat-asteroid-sprite-png-2864056_18
+    21300038: sccpre.cat-asteroid-sprite-png-2864056_19
+    21300040: sccpre.cat-asteroid-sprite-png-2864056_20
+    21300042: sccpre.cat-asteroid-sprite-png-2864056_21
+    21300044: sccpre.cat-asteroid-sprite-png-2864056_22
+    21300046: sccpre.cat-asteroid-sprite-png-2864056_23
+    21300048: sccpre.cat-asteroid-sprite-png-2864056_24
+    21300050: sccpre.cat-asteroid-sprite-png-2864056_25
+    21300052: sccpre.cat-asteroid-sprite-png-2864056_26
+    21300054: sccpre.cat-asteroid-sprite-png-2864056_27
+    21300056: sccpre.cat-asteroid-sprite-png-2864056_28
+    21300058: sccpre.cat-asteroid-sprite-png-2864056_29
+    21300060: sccpre.cat-asteroid-sprite-png-2864056_30
+    21300062: sccpre.cat-asteroid-sprite-png-2864056_31
+    21300064: sccpre.cat-asteroid-sprite-png-2864056_32
+    21300066: sccpre.cat-asteroid-sprite-png-2864056_33
+    21300068: sccpre.cat-asteroid-sprite-png-2864056_34
+    21300070: sccpre.cat-asteroid-sprite-png-2864056_35
+    21300072: sccpre.cat-asteroid-sprite-png-2864056_36
+    21300074: sccpre.cat-asteroid-sprite-png-2864056_37
+    21300076: sccpre.cat-asteroid-sprite-png-2864056_38
+    21300078: sccpre.cat-asteroid-sprite-png-2864056_39
+    21300080: sccpre.cat-asteroid-sprite-png-2864056_40
+    21300082: sccpre.cat-asteroid-sprite-png-2864056_41
+    21300084: sccpre.cat-asteroid-sprite-png-2864056_42
+    21300086: sccpre.cat-asteroid-sprite-png-2864056_43
+    21300088: sccpre.cat-asteroid-sprite-png-2864056_44
+    21300090: sccpre.cat-asteroid-sprite-png-2864056_45
+    21300092: sccpre.cat-asteroid-sprite-png-2864056_46
+    21300094: sccpre.cat-asteroid-sprite-png-2864056_47
+    21300096: sccpre.cat-asteroid-sprite-png-2864056_48
+    21300098: sccpre.cat-asteroid-sprite-png-2864056_49
+    21300100: sccpre.cat-asteroid-sprite-png-2864056_50
+    21300102: sccpre.cat-asteroid-sprite-png-2864056_51
+    21300104: sccpre.cat-asteroid-sprite-png-2864056_52
+    21300106: sccpre.cat-asteroid-sprite-png-2864056_53
+    21300108: sccpre.cat-asteroid-sprite-png-2864056_54
+    21300110: sccpre.cat-asteroid-sprite-png-2864056_55
+    21300112: sccpre.cat-asteroid-sprite-png-2864056_56
+    21300114: sccpre.cat-asteroid-sprite-png-2864056_57
+    21300116: sccpre.cat-asteroid-sprite-png-2864056_58
+    21300118: sccpre.cat-asteroid-sprite-png-2864056_59
+    21300120: sccpre.cat-asteroid-sprite-png-2864056_60
+    21300122: sccpre.cat-asteroid-sprite-png-2864056_61
+    21300124: sccpre.cat-asteroid-sprite-png-2864056_62
+    21300126: sccpre.cat-asteroid-sprite-png-2864056_63
+    21300128: sccpre.cat-asteroid-sprite-png-2864056_64
+    21300130: sccpre.cat-asteroid-sprite-png-2864056_65
+    21300132: sccpre.cat-asteroid-sprite-png-2864056_66
+    21300134: sccpre.cat-asteroid-sprite-png-2864056_67
+    21300136: sccpre.cat-asteroid-sprite-png-2864056_68
+    21300138: sccpre.cat-asteroid-sprite-png-2864056_69
+    21300140: sccpre.cat-asteroid-sprite-png-2864056_70
+    21300142: sccpre.cat-asteroid-sprite-png-2864056_71
+    21300144: sccpre.cat-asteroid-sprite-png-2864056_72
+    21300146: sccpre.cat-asteroid-sprite-png-2864056_73
+    21300148: sccpre.cat-asteroid-sprite-png-2864056_74
+    21300150: sccpre.cat-asteroid-sprite-png-2864056_75
+    21300152: sccpre.cat-asteroid-sprite-png-2864056_76
+    21300154: sccpre.cat-asteroid-sprite-png-2864056_77
+    21300156: sccpre.cat-asteroid-sprite-png-2864056_78
+    21300158: sccpre.cat-asteroid-sprite-png-2864056_79
+    21300160: sccpre.cat-asteroid-sprite-png-2864056_80
+    21300162: sccpre.cat-asteroid-sprite-png-2864056_81
+    21300164: sccpre.cat-asteroid-sprite-png-2864056_82
+    21300166: sccpre.cat-asteroid-sprite-png-2864056_83
+    21300168: sccpre.cat-asteroid-sprite-png-2864056_84
+    21300170: sccpre.cat-asteroid-sprite-png-2864056_85
+    21300172: sccpre.cat-asteroid-sprite-png-2864056_86
+    21300174: sccpre.cat-asteroid-sprite-png-2864056_87
+    21300176: sccpre.cat-asteroid-sprite-png-2864056_88
+    21300178: sccpre.cat-asteroid-sprite-png-2864056_89
+    21300180: sccpre.cat-asteroid-sprite-png-2864056_90
+    21300182: sccpre.cat-asteroid-sprite-png-2864056_91
+    21300184: sccpre.cat-asteroid-sprite-png-2864056_92
+    21300186: sccpre.cat-asteroid-sprite-png-2864056_93
+    21300188: sccpre.cat-asteroid-sprite-png-2864056_94
+    21300190: sccpre.cat-asteroid-sprite-png-2864056_95
+    21300192: sccpre.cat-asteroid-sprite-png-2864056_96
+    21300194: sccpre.cat-asteroid-sprite-png-2864056_97
+    21300196: sccpre.cat-asteroid-sprite-png-2864056_98
+    21300198: sccpre.cat-asteroid-sprite-png-2864056_99
+    21300200: sccpre.cat-asteroid-sprite-png-2864056_100
+    21300202: sccpre.cat-asteroid-sprite-png-2864056_101
+    21300204: sccpre.cat-asteroid-sprite-png-2864056_102
+    21300206: sccpre.cat-asteroid-sprite-png-2864056_103
+    21300208: sccpre.cat-asteroid-sprite-png-2864056_104
+    21300210: sccpre.cat-asteroid-sprite-png-2864056_105
+    21300212: sccpre.cat-asteroid-sprite-png-2864056_106
+    21300214: sccpre.cat-asteroid-sprite-png-2864056_107
+    21300216: sccpre.cat-asteroid-sprite-png-2864056_108
+    21300218: sccpre.cat-asteroid-sprite-png-2864056_109
+    21300220: sccpre.cat-asteroid-sprite-png-2864056_110
+    21300222: sccpre.cat-asteroid-sprite-png-2864056_111
+    21300224: sccpre.cat-asteroid-sprite-png-2864056_112
+    21300226: sccpre.cat-asteroid-sprite-png-2864056_113
+    21300228: sccpre.cat-asteroid-sprite-png-2864056_114
+    21300230: sccpre.cat-asteroid-sprite-png-2864056_115
+    21300232: sccpre.cat-asteroid-sprite-png-2864056_116
+    21300234: sccpre.cat-asteroid-sprite-png-2864056_117
+    21300236: sccpre.cat-asteroid-sprite-png-2864056_118
+    21300238: sccpre.cat-asteroid-sprite-png-2864056_119
+    21300240: sccpre.cat-asteroid-sprite-png-2864056_120
+    21300242: sccpre.cat-asteroid-sprite-png-2864056_121
+    21300244: sccpre.cat-asteroid-sprite-png-2864056_122
+    21300246: sccpre.cat-asteroid-sprite-png-2864056_123
+    21300248: sccpre.cat-asteroid-sprite-png-2864056_124
+    21300250: sccpre.cat-asteroid-sprite-png-2864056_125
+    21300252: sccpre.cat-asteroid-sprite-png-2864056_126
+    21300254: sccpre.cat-asteroid-sprite-png-2864056_127
+    21300256: sccpre.cat-asteroid-sprite-png-2864056_128
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65066824cbb680849a5bb99f894d556a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 725
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce09c2ba2dd63847b6791c315dee923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 725
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256a1526a91620040a523d5462210989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 725
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d61048c131659b438acc7be1a937fbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 725
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc28a9cf1b1fd484aafe140be9cd11a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_5
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 725
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1e5a5f17c0ebb4a852420136e3608e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168536b62e18dcb48a903cef38f96ddb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 605
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfde4a859a8f224189f28928f497369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 605
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1e61bd38daf46498c19161076823ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 605
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c328adc394f40744990dc3557b859a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 605
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a7bff822fa14b4fb64dc57579129c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_11
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 605
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00753a01995ae1e49a6da9fa9204b224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f52d93e4166e94daf26c26d0eb0a60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 485
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6acb8041a05f5249bde9ddad6beafd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 485
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f095a1ee8f05548bedbaebf539511d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_15
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 485
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4aed0325bc85c488a57017a55e1b0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_16
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 485
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f231cf43ecfa424f9eecac5b10c83b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_17
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 485
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a2151d7886b84dabb4f672dd445d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f3614dbb1d0f4ba0fc0d11139d24a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 365
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543fd24e6f61f344db5275f4fd46360f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 365
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a856b18d48aba4ab9ec3166cb0cf27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_21
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 365
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f132ee713f983243ac0936b5f75195a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_22
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 365
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac05c4c614553094bbb335f69d13267d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_23
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 365
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eb380c0ab1ee14298178f5d42041d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c571577272db7f4a9b8e50a5f1352b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 218
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4094b71c450ea28449a8ab6ed1646787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 218
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e5f0ef6c54024eacdbbc34095d701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 214
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7e8d9be6dcac1448969f77e39b9db0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_28
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 217
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d24268447fc8d4c9cf26ac3a04b210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_29
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 219
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacee4a61a8353840949b45b42db97e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_39
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 5
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea082004bce114f47b015bd29c82e5ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-asteroid-sprite-png-2864056_40
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 5
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e8285291847d43a8f59181266dd16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 387b1eae889f6d142863be2da539d403
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
